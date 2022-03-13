@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "express-controller-router",
+  "version": "0.0.1",
+  "description": "Rails-inspired Controllers and Routing Helpers for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/app"
+  },
+  "keywords": [
+    "express",
+    "controller",
+    "router",
+    "routing",
+    "rails",
+    "rest",
+    "restful",
+    "api"
+  ],
+  "author": "Daniel Dye <danieldye.uk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
